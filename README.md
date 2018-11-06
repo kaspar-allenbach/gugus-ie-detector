@@ -7,23 +7,23 @@ This plugin will add the classes `internetExplorer` and `ie11` `ie10` `ie9` to y
 
 The detection is based on this [Stack Overflow Thread](https://stackoverflow.com/questions/21825157/internet-explorer-11-detection). So all credits go over there.
 
-#Installation:
+# Installation:
 
-*Use this thing at your own risk! I know browser detection is evil. But what can you do?*
+(gugus)*Use this thing at your own risk! I know browser detection is evil. But what can you do?*
 
-##Webpack
+## Webpack
 ```
 entry: [
   '@kspr/gugus-ie-detector'
 ]
 ```
-In your `.ja` File:
+In your `.js` File:
 
 ```
 import ieDetector from '@kspr/gugus-ie-detector';
 ieDetector();
-``
+```
 
-##Future
+## Future
 
 I want to add an option to disable the console logs in a production environement.
