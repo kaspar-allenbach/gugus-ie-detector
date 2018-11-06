@@ -1,23 +1,14 @@
 {
-  "name": "gugus-ie-detector",
-  "version": "1.0.0",
-  "description": "A simple IE dection Script for detecting IE11",
-  "main": "gugus-ie-detector.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://Kaspar-Allenbach@github.com/kaspar-allenbach/gugus-ie-detector.git"
-  },
-  "keywords": [
-    "internet",
-    "explorer",
+"name": "@kspr/gugus-ie-detector",
+"version": "1.0.0",
+"description": "Detects IE 11 in a relatively ugly manner.",
+"repository": "kaspar-allenbach/gugus-ie-detector",
+"keywords": [
+    "internet explorer",
     "ie",
+    "ie11",
+    "internet explorer 11",
     "detection",
-    "modern"
-  ],
-  "author": "Kaspar Allenbach",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kaspar-allenbach/gugus-ie-detector/issues"
-  },
-  "homepage": "https://github.com/kaspar-allenbach/gugus-ie-detector#readme"
+    "ie detector"
+  ]
 }
