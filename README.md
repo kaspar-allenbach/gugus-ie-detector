@@ -1,5 +1,8 @@
 # gugus-ie-detector
+
 A simple Ie dection Script for detecting IE11
+
+**Use this thing at your own risk! I know browser detection is evil. But what can you do?**
 
 This is not supposed to be a detector for every browser. I just want to detect IE 11 to add some hacks.
 
@@ -9,7 +12,6 @@ The detection is based on this [Stack Overflow Thread](https://stackoverflow.com
 
 # Installation:
 
-(gugus)*Use this thing at your own risk! I know browser detection is evil. But what can you do?*
 
 ## Webpack
 ```
