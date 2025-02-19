@@ -1,7 +1,7 @@
 {
     "name": "@kspr/gugus-ie-detector",
     "version": "3.0.0",
-    "description": "Detects IE 11 in a relatively ugly manner.",
+    "description": "Detects IE 11 in a relatively ugly manner. Don't use this garbage!",
     "repository": "kaspar-allenbach/gugus-ie-detector",
     "keywords": [
         "internet explorer",
